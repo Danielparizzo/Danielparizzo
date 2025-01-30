@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Danielparizzo
-- 👀 I’m interested in backend and frontend
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Daniel Parizzo
+- 🌱 Currently learning Data Analysis, Python and IA 
 - 📩 daanielparizzo@gmail.com / daniel.ferreira@intexturismo.com.br
